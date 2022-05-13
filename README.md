@@ -1,10 +1,11 @@
 # Express.js-Boilerplate
 
-My default Express.js config
+Uses `nodemon` and `ejs`
 
 - Ejs templates under views/
 - CSS & JS under public/
 
+# Setup
 
 Install dependencies
 ```bash
