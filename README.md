@@ -1,18 +1,28 @@
-# Express.js-Boilerplate
+#  What's this?
 
-Uses `nodemon` and `ejs`
-
-- Ejs templates under views/
-- CSS & JS under public/
+# Screenshots
 
 # Setup
+
+Clone the repo
+```bash
+git clone https://github.com/{USERNAME}/{REPO}
+cd {REPO}
+```
+
+Copy .env.example and replace variables
+```bash
+cp .env.example .env
+nano .env
+```
 
 Install dependencies
 ```bash
 npm install
 ```
 
-Run server
+Start development server
 ```bash
-npm start
+npm run dev
 ````
+
