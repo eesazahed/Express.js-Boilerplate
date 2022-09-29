@@ -9,6 +9,7 @@
     "express.js": "^1.0.0"
   },
   "devDependencies": {
+    "dotenv": "^16.0.2",
     "nodemon": "^2.0.16"
   },
   "license": "GPL-3.0"
