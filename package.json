@@ -1,12 +1,15 @@
 {
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
   "dependencies": {
     "ejs": "^3.0.2",
     "express.js": "^1.0.0"
   },
-  "scripts": {
-    "start": "nodemon index.js"
-  },
   "devDependencies": {
     "nodemon": "^2.0.16"
-  }
+  },
+  "license": "GPL-3.0"
 }
