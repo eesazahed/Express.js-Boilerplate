@@ -2,7 +2,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js DEV=true"
   },
   "dependencies": {
     "ejs": "^3.0.2",
